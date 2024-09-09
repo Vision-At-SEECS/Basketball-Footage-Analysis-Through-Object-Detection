@@ -43,8 +43,8 @@ To set up the project locally, follow these steps:
 
 2. Navigate into the project directory:
 
-  ```bash
-  cd football-footage-analysis
+   ```bash
+   cd football-footage-analysis
 
 3. Install the required dependencies:
 
