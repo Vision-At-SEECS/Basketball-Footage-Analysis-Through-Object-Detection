@@ -40,19 +40,16 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/Vision-At-SEECS/Football-Footage-Analysis-Through-Object-Detection.git
-   '''
 
 2. Navigate into the project directory:
 
    ```bash
    cd football-footage-analysis
-   '''
 
 3. Install the required dependencies:
 
   ```bash
   pip install -r requirements.txt
-  '''
 
 Dependencies include:
 
